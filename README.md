@@ -26,7 +26,13 @@ The sensors on the Enviro+ are very sensitive. The default design, where the sen
 | Material | PLA/PHA |
 | Infill | 20% |
 
+## Assembly
 
+1 x **Ribbon cable Male - Female**, to connect the Enviro+ to the Raspberry Pi Zero.
+
+4 x **M2 4mm,** to attach the PMS5003 to the frame.
+
+8 x **M2.5 4mm**, to attach the Raspberry Pi and Enviro+ board to the frame.
 
 ## References
 
